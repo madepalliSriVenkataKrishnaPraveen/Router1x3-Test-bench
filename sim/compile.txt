@@ -1,0 +1,1 @@
+vlog ..\rtl\router_top.sv ..\test\router_test_pkg.sv ..\tb\router_top.sv +incdir+..\tb +incdir+..\test +incdir+..\dest_agt_top +incdir+..\source_agt_top ..\rtl\src_if.sv ..\rtl\router_fifo.sv ..\rtl\router_reg.sv ..\rtl\router_syn.sv ..\rtl\router_fsm.sv ..\rtl\dst_if.sv
